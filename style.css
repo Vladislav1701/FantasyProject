@@ -1,0 +1,17 @@
+.everything
+{
+    background-color: coral;
+}
+
+
+.container 
+{
+    width: 100%;
+    height: 50vh;
+}
+hr
+{
+    border-top: 5px solid grey;
+    border-radius: 5px;
+    height: 0vh;
+}
